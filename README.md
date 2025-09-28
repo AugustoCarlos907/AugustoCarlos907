@@ -27,11 +27,4 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
-
----
-
 ✨ *“Code is like magic – it only works if you believe in it.”*  
