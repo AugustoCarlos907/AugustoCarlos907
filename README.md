@@ -26,8 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="andrade_py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%; height: auto; max-height: 30px;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/45c0a5be7b9a811742881af64df169bd9e7e76623bfaf48362edbe40352b8f94/68747470733a2f2f6f646f6f63646e2e636f6d2f6f70656e6572705f776562736974652f7374617469632f7372632f696d672f6173736574732f706e672f6f646f6f5f6c6f676f2e706e67"><img align="center" alt="andrade_odoo" height="50" width="50" src="https://camo.githubusercontent.com/45c0a5be7b9a811742881af64df169bd9e7e76623bfaf48362edbe40352b8f94/68747470733a2f2f6f646f6f63646e2e636f6d2f6f70656e6572705f776562736974652f7374617469632f7372632f696d672f6173736574732f706e672f6f646f6f5f6c6f676f2e706e67" data-canonical-src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" style="max-width: 100%; height: auto; max-height: 50px;"></a>
+   <img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" width="50" height="50" alt="Odoo"/>
 </div>
   <br><br>
   <div align="center" dir="auto">
