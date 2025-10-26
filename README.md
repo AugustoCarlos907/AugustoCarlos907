@@ -9,7 +9,7 @@
 - 👨‍💻 I’m a **Full Stack Developer**, skilled in building modern and responsive web applications using **HTML, CSS, JavaScript, PHP, Laravel, MySQL, Bootstrap**.  
 - 🏢 Specialized as an **Odoo Software Developer**, using python , customizing, integrating and developing ERP solutions to help businesses grow efficiently.  
 - 🚀 My focus is on creating **robust backends** with Laravel , while delivering **clean and intuitive frontends** using modern web technologies.  
-- 📚 Constant learner, always improving my skills in web, ERP, and mobile technologies.  
+- 📚 Constant learner, always improving my skills in web, ERP technologies.  
 - 🤝 Open to collaborating on innovative projects that bring real value.  
 - 🌍 Passionate about technology that makes a difference in people's lives.  
 
