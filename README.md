@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Augusto Carlos  
 
-💻 Full Stack Developer | 🐍 Python & PHP Enthusiast | 🏗️ Odoo Software Developer | 🎯 Passionate about building scalable solutions  
+💻 Full Stack Developer |  Python , PHP , JAVA  | Odoo Software Developer | 🎯 Passionate about building scalable solutions  
 
 ---
 
