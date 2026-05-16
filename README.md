@@ -23,7 +23,7 @@
 
 <br/>
 
-## ⚡ Tech Stack – Arsenal de Alta Performance  
+## ⚡ Tech Stack  
 
 <div align="center">
 
