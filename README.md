@@ -13,13 +13,12 @@
 
 ## 🧠 Sobre mim – Full Stack Developer
 
-- 🚀 **Full Stack Developer** – Arquitecto e participo de soluções web de alto desempenho com **HTML5, CSS3, JavaScript moderno, PHP, Laravel, Bootstrap e frameworks JS reativos**.  
-- 🏢 **Odoo Technical Lead** – Desenvolvimento de módulos ERP complexos, integrações B2B, migrações de dados e automação de processos com **Python**.  
-- ⚙️ **Database Manager** – Projeto, otimização e administração de bancos de dados relacionais: **MySQL e PostgreSQL**. Consultas avançadas, tuning de performance, modelagem dimensional e stored procedures.  
-- 🧱 Backends sólidos com **Laravel e Spring Boot**; frontends elegantes, responsivos e orientados à experiência do usuário.  
-- 📚 **Eternal learner** – imerso em **arquiteturas de microsserviços, Docker, mensageria e boas práticas (SOLID, Design Patterns, Clean Code)**.  
-- 🤝 Colaboro em projetos que exigem **visão estratégica, excelência técnica e entrega de valor real**.  
-
+- 🚀 **Full Stack Developer** – Arquitecto e participo de soluções web de alto desempenho com **HTML5, CSS3, JavaScript moderno, PHP, Laravel, Bootstrap e frameworks JS reativos (Vue.js, Angular)**.
+- 🏢 **Odoo Technical Lead** – Desenvolvimento de módulos ERP complexos, integrações B2B, migrações de dados e automação de processos com **Python**.
+- ⚙️ **Database Manager** – Projeto, otimização e administração de bancos de dados relacionais: **MySQL e PostgreSQL**. Consultas avançadas, tuning de performance, modelagem dimensional e stored procedures.
+- 🧱 Backends sólidos com **Laravel e Spring Boot**; frontends elegantes, responsivos e orientados à experiência do usuário.
+- 📚 **Eternal learner** – imerso em **arquiteturas de microsserviços, Docker, mensageria e boas práticas (SOLID, Design Patterns, Clean Code)**.
+- 🤝 Colaboro em projetos que exigem **visão estratégica, excelência técnica e entrega de valor real**.
 
 <br/>
 
@@ -29,7 +28,7 @@
 
 | Frontend | Backend | Bancos de Dados & ERP |
 |:--------:|:-------:|:---------------------:|
-| <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /> | <img src="https://skillicons.dev/icons?i=php,laravel,python,java,spring" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> <br/> <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" width="60"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /><br/><img src="https://skillicons.dev/icons?i=vue,angular" /> | <img src="https://skillicons.dev/icons?i=php,laravel,python,java,spring" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> <br/> <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" width="60"/> |
 
 </div>
 
@@ -37,8 +36,8 @@
 
 ## 📌 Missão Atual  
 
-- 🔭 Participar de  **soluções , Code Reviews  e escalabilidade** .
-- 🌱 Dominando **Docker, Kubernetes e microsserviços** para escalar aplicações ERP em cloud híbrida.  
+- 🔭 Participar de **soluções, Code Reviews e escalabilidade**.
+- 🌱 Dominando **Docker, Kubernetes e microsserviços** para escalar aplicações ERP em cloud híbrida.
 
 <br/>
 
@@ -67,10 +66,6 @@
 ---
 
 <div align="center">
-  ✨ <em>“Great technology is invisible – it just works, scales, and empowers people.”</em>  
+  ✨ <em>“Great technology is invisible – it just works, scales, and empowers people.”</em>
   <br/>
-  
 </div>
-
-
-Adicionar vue js  e Angular no front end
