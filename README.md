@@ -17,7 +17,7 @@
 - ⚙️ **Database Manager** – Projeto e administro bancos de dados relacionais robustos: **SQLserver , MySQL e PostgreSQL**. Consultas avançadas, tuning de performance, modelagem dimensional e stored procedures.
 - 🧱 Backends sólidos com **Laravel e Spring Boot**; frontends modernos, responsivos e orientados à experiência do usuário.
 - 📚 **Eternal learner** – imerso em **arquiteturas de microsserviços, mensageria ( KAFKA & RABBITMQ ) , Docker e boas práticas de desenvolvimento (SOLID, Design Patterns, Clean Code)**.
-- 🏢 **Odoo Technical Lead** – Desenvolvimento de módulos ERP complexos, integrações B2B, migrações de dados e automação de processos com **Python**.
+- 🏢 **Odoo Dev** – Desenvolvimento de módulos ERP complexos, integrações B2B, migrações de dados e automação de processos com **Python**.
 - 🤝 Colaboro em projetos que exigem **visão estratégica, excelência técnica e entrega de valor real**.
 
 <br/>
