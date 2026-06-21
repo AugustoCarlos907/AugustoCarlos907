@@ -1,6 +1,6 @@
 <!-- PERFIL GITHUB - AUGUSTO CARLOS | ELITE ENGINEER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2C7DA0&center=true&vCenter=true&width=550&lines=%F0%9F%91%8B+Augusto+Carlos;Full+Stack+Developer%26+Odoo+Architect;Python+%7C+PHP+%7C+Java+%7C+Laravel+springboot;Mastering+MySQL+%26+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2C7DA0&center=true&vCenter=true&width=550&lines=%F0%9F%91%8B+Augusto+Carlos;Full+Stack+Developer;+PHP+%7C+Java+%7C+Laravel+spring;Mastering+MySQL+%26+PostgreSQL" alt="Typing SVG" />
 </div>
 
 <div align="center">
