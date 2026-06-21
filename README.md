@@ -14,7 +14,7 @@
 ## 🧠 Sobre mim – Full Stack Developer
 
 - 🚀 **Full Stack Developer** –  Desenvolvedor backend && frontend de soluções de alto desempenho com :  **PHP/Laravel || JAVA/SPRING-BOOT  e frameworks JS reativos (Vue.js, Angular)**.
-- ⚙️ **Database Manager** – Projeto e administro de bancos de dados relacionais robustos: **SQLserver , MySQL e PostgreSQL**. Consultas avançadas, tuning de performance, modelagem dimensional e stored procedures.
+- ⚙️ **Database Manager** – Projeto e administro bancos de dados relacionais robustos: **SQLserver , MySQL e PostgreSQL**. Consultas avançadas, tuning de performance, modelagem dimensional e stored procedures.
 - 🧱 Backends sólidos com **Laravel e Spring Boot**; frontends modernos, responsivos e orientados à experiência do usuário.
 - 📚 **Eternal learner** – imerso em **arquiteturas de microsserviços, mensageria ( KAFKA & RABBITMQ ) , Docker e boas práticas de desenvolvimento (SOLID, Design Patterns, Clean Code)**.
 - 🏢 **Odoo Technical Lead** – Desenvolvimento de módulos ERP complexos, integrações B2B, migrações de dados e automação de processos com **Python**.
