@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-ERP%20%26%20Web%20Scalability-0A66C2?style=for-the-badge&logo=odo&logoColor=white" />
   <img src="https://img.shields.io/badge/Base-Angola%20%7C%20Luanda-%23FFD966?style=for-the-badge&logo=googlemaps&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expertise-Database%20Management-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expertise-Database%20Management-336791?style=for-the-badge&logoColor=white" />
 </div>
 
 <br/>
